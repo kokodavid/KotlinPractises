@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Happy Birthday</string>
-    <string name="happy_birthday">Happy Birthday!</string>
+    <string name="app_name">Main.KT</string>
+    <string name="happy_birthday">Kotlin Practise!</string>
     <string name="from_dave">From Dave</string>
 </resources>
