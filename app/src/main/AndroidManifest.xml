@@ -5,16 +5,19 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/tip_app_name"
+        android:label="@string/affirm_app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HappyBirthday">
-        <activity android:name=".TipActivity">
+        <activity android:name=".Affirmation">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".TipActivity">
+
         </activity>
         <activity android:name=".MainActivity">
 
